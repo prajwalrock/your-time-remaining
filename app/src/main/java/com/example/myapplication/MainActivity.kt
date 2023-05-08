@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Check the commit made")
+                    Greeting("Hi, Finally I'm able to push the code after lot of trial")
                 }
             }
         }
